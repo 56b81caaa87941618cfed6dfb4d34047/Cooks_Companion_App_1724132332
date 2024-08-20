@@ -16,7 +16,8 @@ Vue.component("simple_footer_component_1724132333", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 ChefCraft. Cooking up culinary excellence, one chef at a time.
-                    </div>
+                        © 2023 ChefCraft. Cooking up culinary excellence, one chef at a time.
+                        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600">Free</button>
                 </div>
             </div>
         </footer> 
