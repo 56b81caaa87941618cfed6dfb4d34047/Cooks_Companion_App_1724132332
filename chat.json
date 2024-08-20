@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this 'Free' button to be positioned within the app interface?\", \"option1\": \"On the main screen, prominently displayed.\", \"option2\": \"Within a specific section or page of the app.\"}, {\"question 2\": \"What function would you like the 'Free' button to perform when clicked?\", \"option1\": \"Open a new page with detailed information.\", \"option2\": \"Trigger a pop-up offering a free item or service.\"}], \"input_token_count\": 272, \"output_token_count\": 109, \"time_taken\": \"0:00:03.781375\"}",
+        "message_id": "guest20082024055543",
+        "timestamp": "20082024055552",
+        "component_file_name": "simple_footer_component_1724132333",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great! Adding a button with the text \"Free\".",
         "message_id": "guest20082024055543",
