@@ -6,5 +6,11 @@
         "timestamp": "1724132333",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Free",
+        "timestamp": "20082024055547",
+        "message_id": "guest20082024055543"
     }
 ]
